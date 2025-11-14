@@ -1,0 +1,1 @@
+ALTER TABLE `installmentPayments` ADD `pixChargeId` varchar(255);
